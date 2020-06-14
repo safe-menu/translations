@@ -26,7 +26,7 @@ The files contain key-value pairs where the key is the English translation and t
 
 ## Submitting manually
 
-For non-tech savys that do not know how to work with JSON (understandable!!!), you can download the `translations.txt` file and fill it up with the translated
+For non-tech savys that do not know how to work with JSON (understandable!!!), you can download the `translations.txt` file which can be found [here](https://raw.githubusercontent.com/safe-menu/translations/master/translations.txt) and fill it up with the translated
 data and then submit it via mail at: alex@renoki.org.
 
 ## 🐛 Testing
