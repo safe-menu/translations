@@ -24,6 +24,11 @@ For territory-related language differences, like Portugal's portugese and Brazil
 
 The files contain key-value pairs where the key is the English translation and the key is the translated version of that sentence/set.
 
+## Submitting manually
+
+For non-tech savys that do not know how to work with JSON (understandable!!!), you can download the `translations.txt` file and fill it up with the translated
+data and then submit it via mail at: alex@renoki.org.
+
 ## 🐛 Testing
 
 Testing passes based on the fact that the JSON has correct syntax and is in-sync with each and other.

@@ -1,0 +1,613 @@
+./dashboard.safemenu.org/en.json
+----------------------
+English: Built with
+Translated: 
+----------------------
+English: Illustrations by
+Translated: 
+----------------------
+English: Loading
+Translated: 
+----------------------
+English: Menu
+Translated: 
+----------------------
+English: Menus
+Translated: 
+----------------------
+English: Businesses
+Translated: 
+----------------------
+English: My Account
+Translated: 
+----------------------
+English: Create business
+Translated: 
+----------------------
+English: The business is the home of your menus.
+Translated: 
+----------------------
+English: Once you add your business name, you can create the menu right away!
+Translated: 
+----------------------
+English: Business name
+Translated: 
+----------------------
+English: Currency
+Translated: 
+----------------------
+English: Creating...
+Translated: 
+----------------------
+English: The business got created!
+Translated: 
+----------------------
+English: Business settings
+Translated: 
+----------------------
+English: Updating...
+Translated: 
+----------------------
+English: Update business
+Translated: 
+----------------------
+English: The business got updated!
+Translated: 
+----------------------
+English: No businesses
+Translated: 
+----------------------
+English: Add your first business
+Translated: 
+----------------------
+English: Back to businesses
+Translated: 
+----------------------
+English: Business
+Translated: 
+----------------------
+English: Edit
+Translated: 
+----------------------
+English: Delete
+Translated: 
+----------------------
+English: Create menu
+Translated: 
+----------------------
+English: No menus
+Translated: 
+----------------------
+English: Add your first menu
+Translated: 
+----------------------
+English: Branding
+Translated: 
+----------------------
+English: Your brand rocks!
+Translated: 
+----------------------
+English: You are now represented by your own logo!
+Translated: 
+----------------------
+English: Delete logo
+Translated: 
+----------------------
+English: We also believe in identity.
+Translated: 
+----------------------
+English: You can now customize your menu pages with your logo!
+Translated: 
+----------------------
+English: We'll display it everywhere we can - menu pages, your dashboard, etc.
+Translated: 
+----------------------
+English: The logo should be square, minimum of 350x350 px, with a maximum of 5 MB
+Translated: 
+----------------------
+English: Spice your business!
+Translated: 
+----------------------
+English: Select your brand color that will be used instead of our color.
+Translated: 
+----------------------
+English: We want you to be selective.
+Translated: 
+----------------------
+English: Coming soon
+Translated: 
+----------------------
+English: Are you sure you want to delete
+Translated: 
+----------------------
+English: The business got deleted!
+Translated: 
+----------------------
+English: Are you sure you want to delete the logo?
+Translated: 
+----------------------
+English: The logo got deleted!
+Translated: 
+----------------------
+English: Back to business
+Translated: 
+----------------------
+English: Replicate
+Translated: 
+----------------------
+English: Categories
+Translated: 
+----------------------
+English: Create category
+Translated: 
+----------------------
+English: No categories
+Translated: 
+----------------------
+English: Add the first category
+Translated: 
+----------------------
+English: Share
+Translated: 
+----------------------
+English: Your customers can scan the following QR code
+Translated: 
+----------------------
+English: Download QR
+Translated: 
+----------------------
+English: You can also share this menu using the permalink
+Translated: 
+----------------------
+English: The menu got deleted!
+Translated: 
+----------------------
+English: Are you sure you want to replicate
+Translated: 
+----------------------
+English: The menu got replicated!
+Translated: 
+----------------------
+English: A category can be something like i.e. "Drinks". It will appear in the menu list for the customers and can contain many items, like "water", "soda", etc.
+Translated: 
+----------------------
+English: Category name
+Translated: 
+----------------------
+English: Category description
+Translated: 
+----------------------
+English: Items
+Translated: 
+----------------------
+English: You can drag and drop the items to change their order, but only after you finished editing.
+Translated: 
+----------------------
+English: New Item
+Translated: 
+----------------------
+English: Item name
+Translated: 
+----------------------
+English: Price
+Translated: 
+----------------------
+English: Description
+Translated: 
+----------------------
+English: optional
+Translated: 
+----------------------
+English: Has dynamic price
+Translated: 
+----------------------
+English: Add new interval
+Translated: 
+----------------------
+English: Here you can add time intervals in which the menu will display different pricings for this item.
+Translated: 
+----------------------
+English: If the time falls off the rules, the base price of {price} {currency} is shown.
+Translated: 
+----------------------
+English: Start
+Translated: 
+----------------------
+English: End
+Translated: 
+----------------------
+English: Delete interval
+Translated: 
+----------------------
+English: Contains allergens
+Translated: 
+----------------------
+English: Spicy
+Translated: 
+----------------------
+English: Add new item
+Translated: 
+----------------------
+English: Are you sure you want to delete the item?
+Translated: 
+----------------------
+English: Menu name
+Translated: 
+----------------------
+English: Update menu
+Translated: 
+----------------------
+English: The menu got updated!
+Translated: 
+----------------------
+English: Type to search...
+Translated: 
+----------------------
+English: You don't have a business?
+Translated: 
+----------------------
+English: The menu got created!
+Translated: 
+----------------------
+English: Back to categories
+Translated: 
+----------------------
+English: Modify the category
+Translated: 
+----------------------
+English: Update category
+Translated: 
+----------------------
+English: Danger zone
+Translated: 
+----------------------
+English: Once deleting the category, it cannot be retrieved. All of the items will be gone.
+Translated: 
+----------------------
+English: Deleting...
+Translated: 
+----------------------
+English: Delete category
+Translated: 
+----------------------
+English: The category got updated!
+Translated: 
+----------------------
+English: The category got deleted!
+Translated: 
+----------------------
+English: A fresh verification link has been sent to your email address.
+Translated: 
+----------------------
+English: All rights reserved.
+Translated: 
+----------------------
+English: Before proceeding, please check your email for a verification link.
+Translated: 
+----------------------
+English: click here to start over the verification process
+Translated: 
+----------------------
+English: Confirm Password
+Translated: 
+----------------------
+English: E-Mail Address
+Translated: 
+----------------------
+English: Forbidden
+Translated: 
+----------------------
+English: Forgot Your Password?
+Translated: 
+----------------------
+English: Go Home
+Translated: 
+----------------------
+English: Hello!
+Translated: 
+----------------------
+English: If you did not create an account, no further action is required.
+Translated: 
+----------------------
+English: If you did not receive the email
+Translated: 
+----------------------
+English: If you did not request a password reset, no further action is required.
+Translated: 
+----------------------
+English: If you’re having trouble clicking the ":actionText" button, copy and paste the URL below
+into your web browser:
+Translated: 
+----------------------
+English: Invalid signature.
+Translated: 
+----------------------
+English: Login
+Translated: 
+----------------------
+English: Logout
+Translated: 
+----------------------
+English: Name
+Translated: 
+----------------------
+English: Not Found
+Translated: 
+----------------------
+English: Oh no
+Translated: 
+----------------------
+English: Page Expired
+Translated: 
+----------------------
+English: Password
+Translated: 
+----------------------
+English: Please click the button below to verify your email address.
+Translated: 
+----------------------
+English: Please confirm your password before continuing.
+Translated: 
+----------------------
+English: Please check your inbox to confirm your E-Mail address.
+Translated: 
+----------------------
+English: Regards
+Translated: 
+----------------------
+English: Register
+Translated: 
+----------------------
+English: Remember Me
+Translated: 
+----------------------
+English: Reset Password
+Translated: 
+----------------------
+English: Reset Password Notification
+Translated: 
+----------------------
+English: Send Password Reset Link
+Translated: 
+----------------------
+English: Server Error
+Translated: 
+----------------------
+English: Service Unavailable
+Translated: 
+----------------------
+English: This action is unauthorized.
+Translated: 
+----------------------
+English: This password reset link will expire in :count minutes.
+Translated: 
+----------------------
+English: Toggle navigation
+Translated: 
+----------------------
+English: Too Many Attempts.
+Translated: 
+----------------------
+English: Too Many Requests
+Translated: 
+----------------------
+English: Unauthorized
+Translated: 
+----------------------
+English: Verify Email Address
+Translated: 
+----------------------
+English: Verify Your Email Address
+Translated: 
+----------------------
+English: We won't ask for your password again for a few hours.
+Translated: 
+----------------------
+English: You are receiving this email because we received a password reset request for your account.
+Translated: 
+----------------------
+English: Your email address is not verified.
+Translated: 
+----------------------
+English: Whoops!
+Translated: 
+----------------------
+English: I want to receive updates and hot-fresh news from Safe Menu+
+Translated: 
+----------------------
+English: Deleting the account will also delete entirely all of your businesses, menus and categories and cannot be restored at all.
+Translated: 
+----------------------
+English: I understand that i cannot retrieve back my account after deletion.
+Translated: 
+----------------------
+English: Back to dashboard
+Translated: 
+----------------------
+English: New here? Join the train.
+Translated: 
+----------------------
+English: Already have an account?
+Translated: 
+----------------------
+English: Back to login
+Translated: 
+----------------------
+English: Monday
+Translated: 
+----------------------
+English: Tuesday
+Translated: 
+----------------------
+English: Wednesday
+Translated: 
+----------------------
+English: Thursday
+Translated: 
+----------------------
+English: Friday
+Translated: 
+----------------------
+English: Saturday
+Translated: 
+----------------------
+English: Sunday
+Translated: 
+----------------------
+English: Monday-Friday
+Translated: 
+----------------------
+English: Saturday-Sunday
+Translated: 
+----------------------
+
+----------------------
+./menu.safemenu.org/en.json
+----------------------
+English: Please wait...
+Translated: 
+----------------------
+English: Back to website
+Translated: 
+----------------------
+English: Loading...
+Translated: 
+----------------------
+English: Below you will find a list of menus you can choose from.
+Translated: 
+----------------------
+English: No menus to display.
+Translated: 
+----------------------
+English: Back to menus
+Translated: 
+----------------------
+English: Menu
+Translated: 
+----------------------
+English: Select a category
+Translated: 
+----------------------
+English: Loading the items...
+Translated: 
+----------------------
+English: Price available only between {start} and {end}.
+Translated: 
+----------------------
+English: No items.
+Translated: 
+----------------------
+English: Try selecting a category first.
+Translated: 
+----------------------
+English: Contains allergens
+Translated: 
+----------------------
+English: The item is spicy
+Translated: 
+----------------------
+English: Powered by
+Translated: 
+----------------------
+
+----------------------
+./safemenu.org/en.json
+----------------------
+English: Safe Menu+ protects your customers.
+Translated: 
+----------------------
+English: Safe solution for restaurants to replace paper-based menus with digital ones.
+Translated: 
+----------------------
+English: Try it free
+Translated: 
+----------------------
+English: Donate
+Translated: 
+----------------------
+English: Fully Managed
+Translated: 
+----------------------
+English: No need to manage the servers & every bubbly-wobbly stuff by yourself. We already do that for you - you just add your menus and their content.
+Translated: 
+----------------------
+English: COVID-free
+Translated: 
+----------------------
+English: The biggest concern is about safety. No physical menus, just a website that your customers can access and keep their hands clean.
+Translated: 
+----------------------
+English: Free of Charge
+Translated: 
+----------------------
+English: Supporting the businesses is absolutely necessary. You are free-of-charge until a working vaccine is successfully developed or the virus gets completely eradicated.
+Translated: 
+----------------------
+English: Anyone is able to use their own device and won't have to touch items that others touched.
+Translated: 
+----------------------
+English: No more talking.
+Translated: 
+----------------------
+English: The sign up is completely free.
+Translated: 
+----------------------
+English: You can add unlimited businesses and menus.
+Translated: 
+----------------------
+English: Menu
+Translated: 
+----------------------
+English: Dashboard
+Translated: 
+----------------------
+English: Initiative by
+Translated: 
+----------------------
+English: Built with
+Translated: 
+----------------------
+English: Create an account in just a few seconds
+Translated: 
+----------------------
+English: Create an account and let us know if you want to receive news regarding the app.
+Translated: 
+----------------------
+English: Add your menu
+Translated: 
+----------------------
+English: Right after registering, add your menu. Also, you will be creating a new business, just a place for all your menus.
+Translated: 
+----------------------
+English: Add categories
+Translated: 
+----------------------
+English: Each menu will contain categories. Things like "Drinks" or "Pizza", where you can add the items for.
+Translated: 
+----------------------
+English: Share the QR Code
+Translated: 
+----------------------
+English: Share the QR code or the link with your customers and they will see the menu.
+Translated: 
+----------------------
+English: There are already businesses keeping their customers safe
+Translated: 
+----------------------
+English: Within the first one week since we launched, the massive positive feedback launched Safe Menu into preventing the spread of the novel Coronavirus.
+Translated: 
+----------------------
+English: Registered users
+Translated: 
+----------------------
+English: Businesses
+Translated: 
+----------------------
+English: Menus
+Translated: 
+----------------------
+English: Back to website
+Translated: 
+----------------------
+
+----------------------
