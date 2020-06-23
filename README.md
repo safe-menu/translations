@@ -50,6 +50,7 @@ If you discover any security related issues, please email alex@renoki.org instea
 ## 🎉 Credits
 
 - [Alex Renoki](https://github.com/rennokki)
+- David Pasos
 - [All Contributors](../../contributors)
 
 ## 📄 License
