@@ -606,6 +606,9 @@ Translated:
 English: Menus
 Translated: 
 ----------------------
+English: Voted as one of the best apps on ProductHunt
+Translated: 
+----------------------
 English: Back to website
 Translated: 
 ----------------------
