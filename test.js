@@ -12,7 +12,7 @@ const folders = [
     fs.readdirSync(folder).forEach(file => {
       const filePath = './' +
         path.join(folder, file)
-          .replace('\\', '/') // Window fix
+          .replace('\\', '/') // Windows fix
 
       // Test if the JSON format is ok.
       JSON.parse(

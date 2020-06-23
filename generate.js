@@ -18,7 +18,7 @@ const folders = [
 
         const filePath = './' +
           path.join(folder, file)
-            .replace('\\', '/') // Window fix
+            .replace('\\', '/') // Windows fix
 
         const json = JSON.parse(
           fs.readFileSync(filePath, 'utf-8')
